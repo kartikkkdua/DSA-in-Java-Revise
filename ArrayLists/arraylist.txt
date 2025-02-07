@@ -1,0 +1,20 @@
+It is pre defined data strcutures in java.
+It stores data in linear form.
+It is a dynamic size.
+primitive data type can't be stored directly.
+
+for eg. in a array we need to store data of  students , we need to define the number 
+of students of our class for example 5 , so our array will be arr[5];
+so a modification mechanism is needed in array if we need to add more students,
+so arraylist is the dynamic allocation of array.
+
+ArrayList<Integer> list = new ArrayList<>(); //declaration of a arraylist.
+
+like the above declaration we can also do it for Boolean , String
+
+We can do following in arraylist:-
+a. add element
+b. get element
+c. remove element 
+d. set element by index
+e. contain element
